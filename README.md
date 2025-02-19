@@ -58,8 +58,3 @@ This will generate:
 - `at_risk_highlights_sharkhat87.txt`
 - `at_risk_highlights_sharkhat87.json`
 - A folder named `sharkhat87` containing the downloaded highlights (if in `backup` mode).
-
-## Notes
-
-- The script handles pagination to ensure all highlights are retrieved.
-- Debug statements are included to provide information about the total duration of highlights and the number of at-risk highlights exported or downloaded.
